@@ -1,0 +1,33 @@
+/* src/Stopwatch.css */
+.stopwatch {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .display {
+    font-size: 48px;
+    margin: 20px 0;
+  }
+  
+  .controls button {
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .laps {
+    margin-top: 20px;
+  }
+  
+  .laps ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .laps li {
+    font-size: 24px;
+    margin: 5px 0;
+  }
+  
